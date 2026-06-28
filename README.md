@@ -37,5 +37,3 @@ End-to-end Online Food Delivery Data Analysis using Python, MySQL, and Streamlit
 * Faster deliveries improved customer satisfaction.
 
 ---
-
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
